@@ -7,3 +7,5 @@ hello,linux
 À²À²À²À²À²À²À²À²À²À²
 
 ²Á²Á²Á²Á²Á²Á
+
+add somefunction!!!
